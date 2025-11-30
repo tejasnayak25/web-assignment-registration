@@ -59,6 +59,7 @@
         }
     } else {
     ?>
+        <h3 style="margin-bottom: 30px;text-align: center;">Tejas Nayak - 4MW23CS173</h3>
         <h1>Registration Form</h1>
         <form id="registrationForm" action="index.php" method="POST">
             <div class="form-group">
